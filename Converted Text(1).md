@@ -2,7 +2,7 @@
 
 **Summary: Comprehensive Molecular Profiling of Lung Adenocarcinoma**
 
-Authors: Nada Ghozlan (@Nad1), Felix Idowu (@Holuwabiggest), Merylin Ogunlola (@MerylinO), Alatise Monsurah Bisola (@ [AlatiseMB](https://hackbiointern-leo4437.slack.com/team/U07JE9TRESZ)).
+Authors: Nada Ghozlan (@Nad1), Felix Idowu (@Holuwabiggest), Merylin Ogunlola (@MerylinO), Alatise Monsurah Bisola (@[AlatiseMB](https://hackbiointern-leo4437.slack.com/team/U07JE9TRESZ)).
 
 The paper analyzed 230 cases, integrating data from mRNA, miRNA, DNA sequencing, copy number, methylation, and proteomic analyses. It examined tumor and normal samples from patients with various histologic types, most of whom had a history of smoking. Molecular estimates of tumor cellularity provided detailed clinical and molecular insights. Whole-exome sequencing revealed an average mutation rate of 8.87 mutations per megabase, with significant mutations in genes like TP53, KRAS, and EGFR. Distinct mutation patterns were observed between smokers and non-smokers, and focal gene amplifications and deletions were identified, enhancing the understanding of somatic alterations in the disease. The study also identified abnormal RNA transcripts, often caused by gene fusions and splice site mutations. Key drivers of oncogenesis included MET exon 14 skipping and U2AF1 S34F-associated splicing events, offering insights into RNA processing mechanisms contributing to tumor development [(Collisson et al., 2014)](https://www.zotero.org/google-docs/?iLmsie).
 
